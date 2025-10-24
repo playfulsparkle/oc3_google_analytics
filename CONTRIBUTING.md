@@ -29,7 +29,7 @@ To contribute effectively, ensure you have:
 
 To report an issue:
 
-1. Review the [existing issues](https://github.com/playfulsparkle/oc3_google_analytics/issues) to avoid duplicates.
+1. Review the [existing issues](https://github.com/playfulsparkle/oc3_google_analytics/issues) to avoid duplicates, or open a ticket on the [support page](https://support.playfulsparkle.com/).
 2. Provide detailed information, including:
    - OpenCart version
    - Steps to reproduce the issue
