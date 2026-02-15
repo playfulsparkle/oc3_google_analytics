@@ -9,7 +9,7 @@ class ControllerExtensionAnalyticsPsGoogleAnalytics extends Controller
 
         $google_tag_id = $this->config->get('analytics_ps_google_analytics_google_tag_id');
 
-        $gtag_config = [];
+        $gtag_config = array();
 
         if ($this->config->get('analytics_ps_google_analytics_debug_mode')) {
             $gtag_config['debug_mode'] = true;
