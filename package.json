@@ -1,6 +1,6 @@
 {
   "name": "oc3_google_analytics",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Playful Sparkle - Google Analytics for OpenCart 3",
   "main": "index.js",
   "scripts": {
