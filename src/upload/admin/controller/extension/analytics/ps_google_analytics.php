@@ -110,7 +110,15 @@ class ControllerExtensionAnalyticsPsGoogleAnalytics extends Controller
 
     public function install()
     {
+        $this->load->model('setting/setting');
 
+        $data = array(
+            'analytics_ps_google_analytics_status' => 0,
+            'analytics_ps_google_analytics_debug_mode' => 0,
+            'analytics_ps_google_analytics_google_tag_id' => '',
+        );
+
+        $this->model_setting_setting->editSetting('analytics_ps_google_analytics', $data);
     }
 
     public function uninstall()
