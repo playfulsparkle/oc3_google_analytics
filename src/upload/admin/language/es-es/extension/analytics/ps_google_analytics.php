@@ -7,7 +7,7 @@ $_['heading_contact']               = 'Contactar Soporte';
 $_['text_extension']                = 'Extensiones';
 $_['text_edit']                     = 'Editar Google Analytics (GA4)';
 $_['text_success']                  = 'Éxito: ¡Has modificado Google Analytics (GA4)!';
-$_['text_contact']                  = '<p>Para más asistencia, por favor contacta a nuestro equipo de soporte:</p><ul><li><strong>Contacto:</strong> <a href="mailto:%s">%s</a></li><li><strong>Documentación:</strong> <a href="%s" target="_blank" rel="noopener noreferrer">Documentación del Usuario</a></li></ul>';
+$_['text_contact']                  = '<p>Para obtener más ayuda, por favor contacta a nuestro equipo de soporte:</p><ul><li><strong>Contacto:</strong> <a href="mailto:%s">%s</a></li><li><strong>Documentación:</strong> <a href="%s" target="_blank" rel="noopener noreferrer">Documentación para el Usuario</a></li></ul>';
 
 // Tab
 $_['tab_general']                   = 'General';
