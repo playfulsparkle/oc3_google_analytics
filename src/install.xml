@@ -2,12 +2,12 @@
 <!--
 This file is part of "Playful Sparkle - Google Analytics (GA4)" project and subject to the terms
 and conditions defined in file "LICENSE", which is part of this source
-code package and also available on the project page: https://github.com/playfulsparkle/oc3_google_analytics.git
+code package and also available on the project page: https://github.com/playfulsparkle/oc3_google_analytics
 -->
 <modification>
     <name>Playful Sparkle - Google Analytics (GA4)</name>
     <code>ps_google_analytics</code>
     <version>1.0.3</version>
     <author>Playful Sparkle</author>
-    <link>https://github.com/playfulsparkle/oc3_google_analytics.git</link>
+    <link>https://github.com/playfulsparkle/oc3_google_analytics</link>
 </modification>
