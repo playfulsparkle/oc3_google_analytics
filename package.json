@@ -9,9 +9,14 @@
   "keywords": [
     "opencart",
     "opencart3",
+    "opencart-extension",
     "playfulsparkle",
     "google",
-    "google analytics"
+    "google-analytics",
+    "ga4",
+    "analytics",
+    "tracking",
+    "google-tag-id"
   ],
   "author": "zsoltoroszlany82 <zsolt.oroszlany@playfulsparkle.com>",
   "license": "GPL",
